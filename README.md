@@ -162,7 +162,7 @@ scikit-learn
 **Your Name**
 
 **KANISHK A M**
-GitHub: https://github.com/your-kanishk-am
+GitHub: https://github.com/kanishk-am
 
 ---
 
