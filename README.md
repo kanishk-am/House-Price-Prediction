@@ -34,7 +34,7 @@ House-Price-Prediction/
 
 ---
 
-## 🛠️ Technologies Used
+## Technologies Used
 
 - Python 3
 - Pandas
