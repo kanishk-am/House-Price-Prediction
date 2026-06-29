@@ -1,6 +1,6 @@
 # House Price Prediction using Multiple Linear Regression
 
-## 📌 Project Overview
+##  Project Overview
 
 This project demonstrates how to build a **Multiple Linear Regression** model using **Python** and **Scikit-learn** to predict house prices based on three features:
 
@@ -12,7 +12,7 @@ The project also visualizes the model's performance by comparing **Actual Prices
 
 ---
 
-## 📂 Project Structure
+##  Project Structure
 
 ```
 House-Price-Prediction/
@@ -24,7 +24,7 @@ House-Price-Prediction/
 
 ---
 
-## 🚀 Features
+##  Features
 
 - Load and create a housing dataset using Pandas.
 - Train a Multiple Linear Regression model.
@@ -43,7 +43,7 @@ House-Price-Prediction/
 
 ---
 
-## 📊 Dataset
+## Dataset
 
 The dataset is manually created within the script and contains the following columns:
 
@@ -64,7 +64,7 @@ Example:
 
 ---
 
-## ⚙️ Installation
+##  Installation
 
 Clone the repository:
 
@@ -92,7 +92,7 @@ pip install -r requirements.txt
 
 ---
 
-## ▶️ Running the Project
+##  Running the Project
 
 Run the Python script:
 
@@ -108,7 +108,7 @@ The program will:
 
 ---
 
-## 📈 Output
+##  Output
 
 The output graph contains:
 
@@ -118,7 +118,7 @@ The output graph contains:
 
 ---
 
-## 🧠 Machine Learning Model
+##  Machine Learning Model
 
 This project uses **Multiple Linear Regression** from Scikit-learn.
 
@@ -134,7 +134,7 @@ Target Variable:
 
 ---
 
-## 📦 Dependencies
+##  Dependencies
 
 ```
 pandas
@@ -144,7 +144,7 @@ scikit-learn
 
 ---
 
-## 📚 Future Improvements
+##  Future Improvements
 
 - Train using a larger real-world housing dataset.
 - Split data into training and testing sets.
@@ -157,7 +157,7 @@ scikit-learn
 
 ---
 
-## 👨‍💻 Author
+##  Author
 
 **Your Name**
 
@@ -165,7 +165,3 @@ scikit-learn
 GitHub: https://github.com/kanishk-am
 
 ---
-
-## 📄 License
-
-This project is licensed under the MIT License.
